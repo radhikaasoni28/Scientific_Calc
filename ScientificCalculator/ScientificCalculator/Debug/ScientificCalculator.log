@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1163): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1166): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1171): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1172): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1179): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1182): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1186): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1189): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1194): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1197): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1202): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1205): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1210): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1213): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1218): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.h(1221): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\desktop\calculator\calculator\scientificcalculator\scientificcalculator\myform.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ScientificCalculator.vcxproj -> C:\Users\HP\Desktop\Calculator\Calculator\ScientificCalculator\Debug\ScientificCalculator.exe
